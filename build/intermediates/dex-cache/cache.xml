@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_7dec48c689b3365b11b0f5075b93dfbc695725d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_60aa9387527c379a9be1790b48ed372114c37ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fa83b1c9d05a506e8c5468450a1a0cedf07a42">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a498d7d32e2737649c9ae70faaba71d48f18a02a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.3/7fe1a94c1aeb958acc876fe616922cc191f3222c/rxjava-1.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fe1a94c1aeb958acc876fe616922cc191f3222c">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.3_ff4f20bd211732cf84ccd10e0304bca22a5e6a99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4857affb3049891494aed04506b39cac9009a8a4">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_49f11bcfd8306aa6cb75ab1646cd9c0913784a71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_3659453ff3c237b34ed7940e451fc0e166a60197/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_9f73c29b2a4f85322b7c11b51ea58f752b81b9a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/multidex-instrumentation/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="187b6b82610a6029bf4b02f5393d29139818488f">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-instrumentation-1.0.1_fd5112c50a70cfc5f53d5769c2683414e1c2b411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.7/f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb/dagger-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.7_cc3cd2df59f7f8686eb84b50d01d19954701bdb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e006c9b6f0aaed9d8c7934b74039738390fe3468">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.1.0_a18416a4b5d5d2bb83c3151074e34042f1d1b8f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.3_474e89972d5faa940568625dac87a46c353c6a04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_6734a3ecdd245479a91a9a5ec5a4271ad5cb3790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_899a3aced6447904aa3e3edc3d72cf000725722d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_62b34402fadc4d1ab3572e632632b300fefb0bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_6c4c3bcea412f2896f4080776ca307f7d35a2c48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_906883a03199822e8df500ea45794d69c95340da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_782a841788972ac578438706832038b6c4a3d6e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_c12860381d0324bedde22204d029c6e82b13700b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_0b3f2440940350d4525a80965bad50a9654d9ee6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_5b960d3012a8f25bdd06a23d81bc266b59e98149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_47b482ff97fd4d697501b9b0f683cf496f6d5cbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.1.0_ce527d82b5d7760dc183c8c376f264ab62b233ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2181c00a0d0a595b6c0679f1411cc91af6b042bb">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-1.0.0_a43e3d3ab8efe24e0b010c996fd0e24d62392125/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jangseon-og/Mvvm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/jangseon-og/Mvvm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_690d75e79e7cf8ba53752840def2ce496e064d31/classes.dex" />
+    </item>
+
+</items>

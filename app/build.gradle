@@ -1,0 +1,74 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.neenbedankt.android-apt'
+apply plugin: 'me.tatarka.retrolambda'
+apply plugin: 'kotlin-android'
+
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "jso.mvvm"
+        minSdkVersion 19
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    dataBinding {
+        enabled = true
+    }
+    packagingOptions {
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    compile 'com.android.support:appcompat-v7:25.2.0'
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:support-v4:25.1.0'
+    compile 'com.android.support:support-v13:25.1.0'
+    compile 'com.android.support:palette-v7:25.1.0'
+    compile 'com.android.support:support-annotations:25.1.0'
+    // MultiDex : https://developer.android.com/intl/ko/tools/building/multidex.html
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.android.support:multidex-instrumentation:1.0.1'
+    // RxAndroid
+    // [Apache 2.0] https://github.com/ReactiveX/RxAndroid , Copyright 2015 The RxAndroid authors
+    compile 'io.reactivex:rxandroid:1.1.0'
+    // RX binding
+    compile 'com.jakewharton.rxbinding:rxbinding:1.0.0'
+    //Dagger-2
+    apt 'com.google.dagger:dagger-compiler:2.7'
+    compile 'com.google.dagger:dagger:2.7'
+    provided 'javax.annotation:jsr250-api:1.0'
+
+}
+
+
+buildscript {
+    ext.kotlin_version = '1.0.6'
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'me.tatarka:gradle-retrolambda:3.4.0'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
